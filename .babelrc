@@ -1,0 +1,4 @@
+{
+  // Quando for rodar o babel-loader no webpack, ele vai usar esses presets, o preset-env para entender o código mais moderno e o preset-react para entender o código jsx
+  "presets": ["@babel/preset-env", "@babel/preset-react"]
+}
